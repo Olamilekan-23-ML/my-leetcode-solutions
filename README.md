@@ -26,5 +26,14 @@ Each problem folder contains:
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
