@@ -36,4 +36,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
