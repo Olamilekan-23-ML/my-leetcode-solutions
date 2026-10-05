@@ -40,4 +40,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
