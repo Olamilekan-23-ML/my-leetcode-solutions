@@ -48,4 +48,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
