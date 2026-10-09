@@ -22,6 +22,7 @@ Each problem folder contains:
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ Each problem folder contains:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
