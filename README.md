@@ -58,6 +58,7 @@ Each problem folder contains:
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1046-last-stone-weight](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
