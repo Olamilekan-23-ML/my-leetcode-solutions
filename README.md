@@ -40,6 +40,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0046-permutations) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Each problem folder contains:
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0046-permutations) |
 | [0287-find-the-duplicate-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/1046-last-stone-weight) |
