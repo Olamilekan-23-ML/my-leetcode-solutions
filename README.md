@@ -49,6 +49,7 @@ Each problem folder contains:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -67,6 +69,7 @@ Each problem folder contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
