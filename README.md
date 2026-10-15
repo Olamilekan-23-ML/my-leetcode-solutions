@@ -30,6 +30,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0078-subsets) |
 ## Math
@@ -69,6 +71,7 @@ Each problem folder contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
@@ -105,4 +108,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
