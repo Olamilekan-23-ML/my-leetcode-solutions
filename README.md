@@ -59,6 +59,7 @@ Each problem folder contains:
 | [0078-subsets](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0338-counting-bits) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Each problem folder contains:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/Olamilekan-23-ML/my-leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
